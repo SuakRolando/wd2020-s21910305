@@ -1,0 +1,12 @@
+span{
+    display: block;
+   display: none;
+   margin: 20px;
+   padding: 20px;
+}
+div{
+    display: inline;
+    visibility: hidden;
+    margin: 20px;
+    padding: 20px;
+}
