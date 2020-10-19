@@ -1,0 +1,14 @@
+body{
+    font-family: 'Chilanka', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+h1{
+    font-family: 'Staatliches', cursive;
+    font-size: 6rem;
+    margin: 0% auto;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    font-size: medium;
+}
